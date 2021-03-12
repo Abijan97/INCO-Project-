@@ -115,7 +115,7 @@ nav a {
 
 nav a:hover {
   text-decoration: none;
-  color: rgba(12, 94, 216, 0.8);
+  color: #2c75ff;
 }
 
 nav ul {
@@ -225,7 +225,7 @@ section {
 
 .section-heading:hover {
   padding: 4px 48px;
-  background: rgba(12, 94, 216, 0.8);
+  background: #2c75ff;
 }
 
 /* Section Source */
@@ -280,7 +280,7 @@ section {
 }
 
 .btn-readmore:hover {
-  background: rgba(12, 94, 216, 0.8);
+  background: #2c75ff;
   text-decoration: none;
   padding: 8px 64px 8px 24px;
   color: white;
@@ -364,7 +364,7 @@ footer #social-media-footer ul li:hover a .fa-github {
 
 .page-heading:hover {
   padding: 4px 48px;
-  background: rgba(12, 94, 216, 0.8);
+  background: #2c75ff;
 }
 
 .card-meta {
@@ -422,11 +422,24 @@ footer #social-media-footer ul li:hover a .fa-github {
 /* Sidebar */
 
 #sidebar {
-  background: #333;
+  background: #2c75ff;
   flex: 1;
   padding: 8px 16px;
+
   color: white;
-  box-shadow: inset 27px 0 51px -18px rgba(0, 0, 0, 0.75);
+  box-shadow: inset 27px 0 51px -18px rgba(73, 143, 235, 0.281);
+}
+.mentor {
+  background-color: cornflowerblue;
+  flex: 1;
+  padding: 8px 16px;
+  border-radius: 10px;
+  transition: all 0.4s;
+  margin-top: 8px;
+}
+.mentor:hover {
+  padding: 11px 18px;
+  background-color: rgba(13, 106, 160, 0.705);
 }
 
 /* Comments section */
