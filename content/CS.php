@@ -5,10 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt"
-        crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed|Roboto+Slab" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./style.css">
     <title>GTCoding</title>
 </head>
 
@@ -16,24 +15,24 @@
     <div id="slideout-menu">
         <ul>
             <li>
-                <a href="index.html">Home</a>
+                <a href="../homepage.php">Home</a>
             </li>
             <li>
-                <a href="blogslist.html">Blog</a>
+                <a href="./blogslist.php">Blog</a>
             </li>
             <li>
-                <a href="blogslist.html">Projects</a>
+                <a href="./blogslist.php">Projects</a>
             </li>
             <li>
-                <a href="about.html">About</a>
+                <a href="./about.php">About</a>
             </li>
-           
+
         </ul>
     </div>
 
     <nav>
         <div id="logo-img">
-            <a href="#">
+            <a href="../homepage.php">
                 <img src="../img/logo2.png" alt="Logo">
             </a>
         </div>
@@ -42,16 +41,16 @@
         </div>
         <ul>
             <li>
-                <a class="active" href="index.html">Home</a>
+                <a class="active" href="./index.php">Home</a>
             </li>
             <li>
-                <a href="blogslist.html">Blog</a>
+                <a href="./blogslist.php">Blog</a>
             </li>
             <li>
-                <a href="blogslist.html">Projects</a>
+                <a href="./blogslist.php">Projects</a>
             </li>
             <li>
-                <a href="about.html">About</a>
+                <a href="./about.php">About</a>
             </li>
             <!-- <li>
                 <div id="search-icon">
@@ -66,95 +65,103 @@
     </div>
 
     <div id="banner">
-        <h1>&lt;GTCoding/&gt;</h1>
+        <h1>C#</h1>
         <h3>Learn coding from scratch</h3>
     </div>
 
     <main>
-        <a href="blogslist.html">
+        <a href="./blogslist.php">
             <h2 class="section-heading">All Blogs</h2>
         </a>
 
         <section>
             <div class="card">
                 <div class="card-image">
-                    <a href="blogpost.html">
-                        <img src="img/1.jpg" alt="Card Image">
+                    <a href="./blogpost.php">
+                        <img src="./img/1.jpg" alt="Card Image">
                     </a>
                 </div>
 
                 <div class="card-description">
-                    <a href="blogpost.html">
+                    <a href="./blogpost.php">
                         <h3>The Blog Title Here</h3>
                     </a>
                     <p>
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, ullam facilis consequuntur eligendi sit accusamus tempora
-                        cum distinctio pariatur ipsa quod, odit dolorum non vero recusandae? Corporis voluptatem optio nulla.
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, ullam facilis consequuntur
+                        eligendi sit accusamus tempora
+                        cum distinctio pariatur ipsa quod, odit dolorum non vero recusandae? Corporis voluptatem optio
+                        nulla.
                     </p>
-                    <a href="blogpost.html" class="btn-readmore">Read more</a>
+                    <a href="./blogpost.php" class="btn-readmore">Read more</a>
                 </div>
             </div>
 
             <div class="card">
                 <div class="card-image">
-                    <a href="blogpost.html">
-                        <img src="img/2.jpg" alt="Card Image">
+                    <a href="./blogpost.php">
+                        <img src="./img/2.jpg" alt="Card Image">
                     </a>
                 </div>
 
                 <div class="card-description">
-                    <a href="blogpost.html">
+                    <a href="./blogpost.php">
                         <h3>The Blog Title Here</h3>
                     </a>
                     <p>
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, ullam facilis consequuntur eligendi sit accusamus tempora
-                        cum distinctio pariatur ipsa quod, odit dolorum non vero recusandae? Corporis voluptatem optio nulla.
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, ullam facilis consequuntur
+                        eligendi sit accusamus tempora
+                        cum distinctio pariatur ipsa quod, odit dolorum non vero recusandae? Corporis voluptatem optio
+                        nulla.
                     </p>
-                    <a href="blogpost.html" class="btn-readmore">Read more</a>
+                    <a href="./blogpost.php" class="btn-readmore">Read more</a>
                 </div>
             </div>
         </section>
 
-        <a href="blogslist.html">
-        	<h2 class="section-heading">All Projects</h2>
-    	</a>
+        <a href="./blogslist.php">
+            <h2 class="section-heading">All Projects</h2>
+        </a>
 
         <section>
             <div class="card">
                 <div class="card-image">
-                    <a href="blogpost.html">
-                        <img src="img/3.jpg" alt="Card Image">
+                    <a href="./blogpost.php">
+                        <img src="./img/3.jpg" alt="Card Image">
                     </a>
                 </div>
 
                 <div class="card-description">
-                    <a href="blogpost.html">
+                    <a href="./blogpost.php">
                         <h3>The Project Title Here</h3>
                     </a>
                     <p>
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, ullam facilis consequuntur eligendi sit accusamus tempora
-                        cum distinctio pariatur ipsa quod, odit dolorum non vero recusandae? Corporis voluptatem optio nulla.
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, ullam facilis consequuntur
+                        eligendi sit accusamus tempora
+                        cum distinctio pariatur ipsa quod, odit dolorum non vero recusandae? Corporis voluptatem optio
+                        nulla.
                     </p>
-                    <a href="blogpost.html" class="btn-readmore">Read more</a>
+                    <a href="./blogpost.php" class="btn-readmore">Read more</a>
                 </div>
             </div>
 
             <div class="card">
                 <div class="card-image">
-                    <a href="blogpost.html">
-                        <img src="img/4.jpg" alt="Card Image">
+                    <a href="./blogpost.php">
+                        <img src="./img/4.jpg" alt="Card Image">
                     </a>
                 </div>
 
                 <div class="card-description">
-                    <a href="blogpost.html">
+                    <a href="./blogpost.php">
                         <h3>The Project Title Here</h3>
                     </a>
                     <p>
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, ullam facilis consequuntur eligendi sit accusamus tempora
-                        cum distinctio pariatur ipsa quod, odit dolorum non vero recusandae? Corporis voluptatem optio nulla.
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, ullam facilis consequuntur
+                        eligendi sit accusamus tempora
+                        cum distinctio pariatur ipsa quod, odit dolorum non vero recusandae? Corporis voluptatem optio
+                        nulla.
                     </p>
-                    <a href="blogpost.html" class="btn-readmore">Read more</a>
+                    <a href="./blogpost.php" class="btn-readmore">Read more</a>
                 </div>
             </div>
         </section>
@@ -163,8 +170,10 @@
 
         <section id="section-source">
             <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum neque qui delectus ad dolor blanditiis perferendis praesentium
-                consectetur aut sed provident obcaecati aspernatur perspiciatis, dolores nobis pariatur ipsum vel corrupti!
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum neque qui delectus ad dolor blanditiis
+                perferendis praesentium
+                consectetur aut sed provident obcaecati aspernatur perspiciatis, dolores nobis pariatur ipsum vel
+                corrupti!
             </p>
             <a href="#" class="btn-readmore">GitHub Profile</a>
         </section>
@@ -175,19 +184,19 @@
                 <p>
                     <ul>
                         <li>
-                            <a href="index.html">Home</a>
+                            <a href="index.php">Home</a>
                         </li>
                         <li>
-                            <a href="about.html">About</a>
+                            <a href="about.php">About</a>
                         </li>
                         <li>
                             <a href="#">Privacy Policy</a>
                         </li>
                         <li>
-                            <a href="blogslist.html">Blogs</a>
+                            <a href="blogslist.php">Blogs</a>
                         </li>
                         <li>
-                            <a href="blogslist.html">Projects</a>
+                            <a href="blogslist.php">Projects</a>
                         </li>
                         <li>
                             <a href="#">Contact</a>
@@ -223,7 +232,7 @@
 
     </main>
 
-    <script src="main.js"></script>
+    <script src="./main.js"></script>
 </body>
 
 </html>

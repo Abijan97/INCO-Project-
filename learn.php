@@ -5,27 +5,29 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>IT Knowledge</title>
-    <link rel="stylesheet" href="/css/style.css" />
-    <link rel="stylesheet" type="text/css " href="/css/lightslider.css" />
-    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" type="text/css " href="./css/lightslider.css" />
+    <link rel="stylesheet" href="./styles.css" />
     <!-- scripts -->
-    <script type="text/javascript" src="/javaScript/jquery.js"></script>
-    <script type="text/javascript" src="/javaScript/lightslider.js"></script>
+    <script type="text/javascript" src="./javaScript/jquery.js"></script>
+    <script type="text/javascript" src="./javaScript/lightslider.js"></script>
 </head>
 
 <body>
     <div class="wrapper">
         <div class="nav">
-            <div class="logo">
-                <h4>
-                    <a class="dottech-icon" href="./homepage.html">DOTTECH</a>
-                </h4>
-            </div>
+            <!-- <div class="logo">
+                <div id="logo-img">
+                    <a href="./homepage.php">
+                        <img src="./img/logo2.png" alt="Logo">
+                    </a>
+                </div>
+            </div> -->
             <div class="links">
-                <a href="/learn.html" class="mainlink">IT knowledge</a>
+                <a href="./learn.php" class="mainlink">IT knowledge</a>
                 <a href="#" class="mainlink">Mentor</a>
-                <a href="/Contact Us/contact.html">Contact us</a>
-                <a href="/Sliding-Sign-In-Sign-Up-Form-master/sign.html">Sign In</a>
+                <a href="./Contact Us/contact.php">Contact us</a>
+                <a href="./Sliding-Sign-In-Sign-Up-Form-master/sign.php">Sign In</a>
             </div>
         </div>
         <section class="main">
@@ -40,7 +42,7 @@
                         <!-- details -->
                         <div class="slide-detail">
                             <p>Languages</p>
-                            <p><a href="/content/cplus.html">C++</a></p>
+                            <p><a href="./content/cplus.php">C++</a></p>
                         </div>
                         <!-- user-icon -->
                         <div class="user user-img01"></div>
@@ -52,7 +54,7 @@
                         <!-- details -->
                         <div class="slide-detail">
                             <p>Languages</p>
-                            <p><a href="/content/java.html">JAVA</a></p>
+                            <p><a href="./content/java.php">JAVA</a></p>
                         </div>
                         <!-- user-icon -->
                         <div class="user user-img02"></div>
@@ -64,7 +66,7 @@
                         <!-- details -->
                         <div class="slide-detail">
                             <p>Languages</p>
-                            <p><a href="/content/CS.html">C#</a></p>
+                            <p><a href="./content/CS.php">C#</a></p>
                         </div>
                         <!-- user-icon -->
                         <div class="user user-img03"></div>
@@ -113,7 +115,7 @@
                         <!-- details -->
                         <div class="slide-detail">
                             <p>Languages</p>
-                            <p><a href="/content/HTML.html">HTML</a></p>
+                            <p><a href="/content/HTML.php">HTML</a></p>
                         </div>
                         <!-- user-icon -->
                         <div class="user user-img0"></div>
@@ -201,7 +203,7 @@
     </div>
 
     <!-- java script -->
-    <script type="text/javascript" src="/javaScript/script.js"></script>
+    <script type="text/javascript" src="./javaScript/script.js"></script>
 </body>
 
 </html>

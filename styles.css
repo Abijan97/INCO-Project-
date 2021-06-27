@@ -264,3 +264,25 @@ li span {
 .dottech-icon {
   color: black;
 }
+
+/* #logo-img {
+  position: relative;
+  top: -1px;
+  padding-top: 2mm;
+  display: block;
+  height: 50%;
+  background: transparent;
+
+  color: #eee;
+  transition: 0.4s;
+}
+
+#logo-img img {
+  height: 50px;
+}
+
+@media (max-width: 600px) {
+  #logo-img {
+    padding: 0;
+  }
+} */
