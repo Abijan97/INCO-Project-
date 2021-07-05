@@ -59,7 +59,9 @@
                     </div>
 
                     <div id="comments-section">
-                        Comments Section
+                    <form action="https://localhost/chatapp">
+                      <input type="submit" value="Live Chat with mentor" />
+                    </form>
                     </div>
                 </section>
 

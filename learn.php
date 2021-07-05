@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>IT Knowledge</title>
+    <title>Learn</title>
     <link rel="stylesheet" href="./css/style.css" />
     <link rel="stylesheet" type="text/css " href="./css/lightslider.css" />
     <link rel="stylesheet" href="./styles.css" />
@@ -24,7 +24,7 @@
                 </div>
             </div> -->
             <div class="links">
-                <a href="./learn.php" class="mainlink">IT knowledge</a>
+                <a href="./learn.php" class="mainlink">Learn</a>
                 <a href="#" class="mainlink">Mentor</a>
                 <a href="./Contact Us/contact.php">Contact us</a>
                 <a href="./Sliding-Sign-In-Sign-Up-Form-master/sign.php">Sign In</a>

@@ -18,10 +18,10 @@
             <img src="./img/logo2.png" alt="Logo">
           </a>
         </div>
-      </div> -->
+      </div> -->  
       <div class="links">
-        <a href="./learn.php" class="mainlink">IT Knowledge</a>
-        <a href="#" class="mainlink">Mentor</a>
+        <a href="./learn.php" class="mainlink">Learn</a>
+        <a href="./content/" class="mainlink">Mentor</a>
         <a href="./Contact Us/contact.php">Contact us</a>
         <a href="./homepage.php">Log Out</a>
       </div>

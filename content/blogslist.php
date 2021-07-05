@@ -22,7 +22,7 @@
         </a>
       </div>
       <div class="links">
-        <a href="../learn.php" class="mainlink">IT knowledge</a>
+        <a href="../learn.php" class="mainlink">Learn</a>
         <a href="#" class="mainlink">Mentor</a>
         <a href="../Contact Us/contact.php">Contact us</a>
         <a href="../Sliding-Sign-In-Sign-Up/signin.php">Sign In</a>

@@ -20,7 +20,7 @@
         </div>
       </div> -->
       <div class="links">
-        <a href="./Sliding-Sign-In-Sign-Up/signin.php" class="mainlink">IT Knowledge</a>
+        <a href="./Sliding-Sign-In-Sign-Up/signin.php" class="mainlink">Learn</a>
         <a href="./Sliding-Sign-In-Sign-Up/signin.php" class="mainlink">Mentor</a>
         <a href="./Sliding-Sign-In-Sign-Up/signin.php">Contact us</a>
         <a href="./Sliding-Sign-In-Sign-Up/signin.php">Sign In</a>
