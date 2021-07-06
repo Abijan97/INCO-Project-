@@ -221,6 +221,52 @@
             <a target="_blank" href="https://www.edx.org/course/introduction-to-java-programming-starting-to-code" class="btn-readmore">Go to Course</a>
           </div>
         </div>
+        <div class="card">
+          <div class="card-image">
+            <a target="_blank" href="https://www.udemy.com/course/complete-python-bootcamp/">
+              <img src="../images/udemy.png" alt="Card Image">
+            </a>
+          </div>
+
+          <div class="card-description">
+            <a target="_blank" href="https://www.udemy.com/course/complete-python-bootcamp/">
+              <h3>2021 Complete Python Bootcamp From Zero to Hero in Python</h3>
+            </a>
+            <div class="card-meta">
+              UDEMY
+            </div>
+            <p>
+              What you'll learn :
+              This is the most comprehensive, yet straight-forward, course for the Python programming language on Udemy! Whether you have never programmed before, already know basic syntax, or want to learn about the advanced features of Python, this course is for you! In this course we will teach you Python 3.With over 100 lectures and more than 21 hours of video this comprehensive course leaves no stone unturned! This course includes quizzes, tests, coding exercises and homework assignments as well as 3 major projects to create a Python project portfolio!Learn how to use Python for real-world tasks, such as working with PDF Files, sending emails, reading Excel files, Scraping websites for informations, working with image files, and much more!
+              
+            </p>
+            <a target="_blank" href="https://www.udemy.com/course/complete-python-bootcamp/" class="btn-readmore">Go to course</a>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-image">
+            <a target="_blank" href="https://www.udemy.com/course/programming-for-complete-beginners-in-csharp/">
+              <img src="../images/udemy-top-courses.png" alt="Card Image">
+            </a>
+          </div>
+
+          <div class="card-description">
+            <a href="https://www.udemy.com/course/programming-for-complete-beginners-in-csharp/">
+              <h3>Programming for Complete Beginners in C#</h3>
+            </a>
+            <div class="card-meta">
+              UDEMY
+
+            </div>
+            <p>
+              What you'll learn;
+              This is the BEST COURSE CHOICE for raw beginners — anybody who wants to write a little code — or a lot of it! And it’s especially right for anyone who dreams of becoming a software programmer but hasn’t the faintest idea of how to begin.Here’s great news: If you can type, install a program using a Wizard, and open the File Explorer, you’re ready to beginIt’s true. If you have a computer (or access to one), have typing ability, and know how to browse files, YOU can learn to program one of today’s most popular and fastest-growing computer platforms, C#. Yes, you could learn C# online and become a successful software programmer with our C# course, “Programming for Complete Beginners in C#.”
+            </p>
+            <a target="_blank" href="https://www.udemy.com/course/programming-for-complete-beginners-in-csharp/" class="btn-readmore">Go to course</a>
+          </div>
+        </div>
+
+
       </section>
 
       <div class="pagination">

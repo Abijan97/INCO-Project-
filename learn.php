@@ -78,7 +78,7 @@
                         <!-- details -->
                         <div class="slide-detail">
                             <p>Languages</p>
-                            <p>PYTHON</p>
+                            <p><a href="content/python.php">Python</a></p>
                         </div>
                         <!-- user-icon -->
                         <div class="user user-img04"></div>

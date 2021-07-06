@@ -50,7 +50,7 @@
     </div>
 
     <div id="banner">
-      <h1>C#</h1>
+      <h1>PYTHON</h1>
       <h3>Learn coding from scratch</h3>
     </div>
 
@@ -68,35 +68,33 @@
           </div>
 
           <div class="card-description">
-            <a target="_blank" href="https://www.udemy.com/course/programming-for-complete-beginners-in-csharp/">
-              <h3>Programming for Complete Beginners in C# - UDEMY</h3>
+            <a target="_blank" href="https://www.udemy.com/course/complete-python-bootcamp/">
+              <h3>2021 Complete Python Bootcamp From Zero to Hero in Python - UDEMY</h3>
             </a>
             <p>
               What you'll learn :
-              This is the BEST COURSE CHOICE for raw beginners — anybody who wants to write a little code — or a lot of it! And it’s especially right for anyone who dreams of becoming a software programmer but hasn’t the faintest idea of how to begin.Here’s great news: If you can type, install a program using a Wizard, and open the File Explorer, you’re ready to beginIt’s true. If you have a computer (or access to one), have typing ability, and know how to browse files, YOU can learn to program one of today’s most popular and fastest-growing computer platforms, C#. Yes, you could learn C# online and become a successful software programmer with our C# course, “Programming for Complete Beginners in C#.”
-
-
+              This is the most comprehensive, yet straight-forward, course for the Python programming language on Udemy! Whether you have never programmed before, already know basic syntax, or want to learn about the advanced features of Python, this course is for you! In this course we will teach you Python 3.With over 100 lectures and more than 21 hours of video this comprehensive course leaves no stone unturned! This course includes quizzes, tests, coding exercises and homework assignments as well as 3 major projects to create a Python project portfolio!Learn how to use Python for real-world tasks, such as working with PDF Files, sending emails, reading Excel files, Scraping websites for informations, working with image files, and much more!
             </p>
-            <a target="_blank" href="https://www.udemy.com/course/programming-for-complete-beginners-in-csharp/" class="btn-readmore">Go to course</a>
+            <a target="_blank" href="https://www.udemy.com/course/complete-python-bootcamp/" class="btn-readmore">Go to course</a>
           </div>
         </div>
 
         <div class="card">
           <div class="card-image">
-            <a target="_blank" href="https://www.udemy.com/course/visual-studio-tips-tricks/">
+            <a target="_blank" href="https://www.udemy.com/course/the-complete-python-programmer-bootcamp/">
               <img src="../images/udemy.png" alt="Card Image" />
             </a>
           </div>
 
           <div class="card-description">
-            <a target="_blank" href="https://www.udemy.com/course/visual-studio-tips-tricks/">
-              <h3>C# Developers: Double Your Coding Speed with Visual Studio - UDEMY</h3>
+            <a target="_blank" href="https://www.udemy.com/course/the-complete-python-programmer-bootcamp/">
+              <h3>The Complete Python Programmer Bootcamp 2021 - UDEMY</h3>
             </a>
             <p>
-              What you'll learn :
-              The course shows fast coding techniques (shortcuts and tricks) to type less and generate more code for C# developers.By the end of the course you will learn over 60 keyboard shortcuts to speed up your coding, work more on keyboard and rely less on mouse, how to compile, run and debug applications faster, learn add-ons to code in a better way, how to quickly find files, classes and members and how to navigate your code like a pro.
+              What you'll learn;
+              This Python course is different. It will not only teach you Python, it will give you a problem solving super-power using Python code! And that will make all the difference, especially if you are pursuing a career in data science, AI, web development, big data, web testing, or programming for smart devices in Python.The author of this course, Giles McMullen-Klein, is a British programmer who went to Oxford University and used Python for his research there. Giles is one of the best-known Python and data science vloggers on YouTube where more than 133,000 subscribers follow his videos.
             </p>
-            <a target="_blank" href="https://www.udemy.com/course/visual-studio-tips-tricks/" class="btn-readmore">Go to course</a>
+            <a target="_blank" href="https://www.udemy.com/course/the-complete-python-programmer-bootcamp/" class="btn-readmore">Go to course</a>
           </div>
         </div>
       </section>
@@ -108,41 +106,41 @@
       <section>
         <div class="card">
           <div class="card-image">
-            <a target="_blank" href="https://youtu.be/wLg-XdAmrak">
+            <a target="_blank" href="https://youtu.be/WGJJIrtnfpk?list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu">
               <img src="../images/edureka-blockchain.jpg" alt="Card Image" />
             </a>
           </div>
 
           <div class="card-description">
-            <a target="_blank" href="https://youtu.be/wLg-XdAmrak">
-              <h3>C# Tutorial for Beginners | Learn C# Programming | Visual Studio | Edureka</h3>
+            <a target="_blank" href="https://youtu.be/WGJJIrtnfpk?list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu">
+              <h3>Learn Python in 12 Hours | Python Tutorial For Beginners | Edureka</h3>
             </a>
             <p>
-              🔥This Edureka video on C# Programming Tutorial (blog: https://www.edureka.co/blog/c-sharp-t...
-              ) will help you to revise yourself for C# basics. It covers all the topics for all the three categories of learners, beginner, intermediate and experienced professionals.  
+              🔥Edureka Python Programming Certification Course (Use Code "𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝟐𝟎"): https://www.edureka.co/python-program...
+              This Edureka video on Python Full Course will help you learn the Python programming language and its core concepts with examples from scratch. Below are the topics covered in this Python 
             </p>
-            <a target="_blank" href="https://youtu.be/wLg-XdAmrak"class="btn-readmore">Go to video</a>
+            <a target="_blank" href="https://youtu.be/WGJJIrtnfpk?list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu"class="btn-readmore">Go to video</a>
           </div>
         </div>
 
         <div class="card">
           <div class="card-image">
-            <a target="_blank" href="https://youtu.be/GhQdlIFylQ8">
-              <img src="../images/c4f16fa39a32.jpg" alt="Card Image" />
+            <a target="_blank" href="https://youtu.be/_uQrJ0TkZlc">
+              <img src="../images/aa5929c1cef6.jpg" alt="Card Image" />
             </a>
           </div>
 
           <div class="card-description">
-            <a target="_blank" href="https://youtu.be/GhQdlIFylQ8">
-              <h3>C# Tutorial - Full Course for Beginners
+            <a target="_blank" href="https://youtu.be/_uQrJ0TkZlc">
+              <h3>Python Tutorial - Python for Beginners [Full Course]
               </h3>
             </a>
             <p>
-                This course will give you a full introduction into all of the core concepts in C# (aka C Sharp). Follow along with the course and you'll be a C# programmer in no time!
+                Python tutorial - Python for beginners - Go from Zero to Hero with Python (includes machine learning & web development project).
 
               
             </p>
-            <a target="_blank" href="https://youtu.be/GhQdlIFylQ8" class="btn-readmore">Go to video</a>
+            <a target="_blank" href="https://youtu.be/_uQrJ0TkZlc" class="btn-readmore">Go to video</a>
           </div>
         </div>
       </section>
