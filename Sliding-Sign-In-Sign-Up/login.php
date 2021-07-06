@@ -27,7 +27,7 @@ if (isset($_POST['login_submit'])) {
                     session_start();
                     $_SESSION['user_id']= $row['user_id'];
                     $_SESSION['user_username']= $row['user_username'];
-                    header("Location: ../homepage_logged.php?login=success");
+                    header("Location: ../homepage.php?login=success");
                     exit();
                 } else {
                     header("Location: ./signin.php?error=wrongpassword");

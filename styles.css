@@ -265,6 +265,30 @@ li span {
   color: black;
 }
 
+.logo-img {
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 10px;
+  /* top: -1px;
+  padding-top: 2mm;
+  display: block;
+  height: 50%;
+  background: transparent; */
+
+  color: #eee;
+  transition: 0.4s;
+}
+
+.logo-img img {
+  height: 10px;
+}
+
+/* @media (max-width: 600px) {
+  #logo-img {
+    padding: 0;
+  }
+} */
+
 /* #logo-img {
   position: relative;
   top: -1px;

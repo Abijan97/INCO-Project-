@@ -38,7 +38,7 @@
             <ul id="autoWidth" class="cs-hidden">
                 <li class="item-a">
                     <!-- slider-box-1 -->
-                    <div onclick="" class="box box-img01">
+                    <div class="box box-img01">
                         <!-- details -->
                         <div class="slide-detail">
                             <p>Languages</p>

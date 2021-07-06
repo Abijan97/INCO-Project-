@@ -18,12 +18,12 @@
             <img src="./img/logo2.png" alt="Logo">
           </a>
         </div>
-      </div> -->  
+      </div> -->
       <div class="links">
-        <a href="./learn.php" class="mainlink">Learn</a>
-        <a href="./content/" class="mainlink">Mentor</a>
-        <a href="./Contact Us/contact.php">Contact us</a>
-        <a href="./homepage.php">Log Out</a>
+        <a href="./Sliding-Sign-In-Sign-Up/signin.php" class="mainlink">Learn</a>
+        <a href="./Sliding-Sign-In-Sign-Up/signin.php" class="mainlink">Mentor</a>
+        <a href="./Sliding-Sign-In-Sign-Up/signin.php">Contact us</a>
+        <a href="./Sliding-Sign-In-Sign-Up/signin.php">Sign In</a>
       </div>
     </div>
     <!--landing page-->

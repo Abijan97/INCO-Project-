@@ -14,7 +14,7 @@
   <div class="wrapper">
     <div class="nav">
       <div class="logo">
-        <a href="../homepage.php">
+        <a href="../homepage_view.php">
           <h4>DOTTECH</h4>
         </a>
       </div>

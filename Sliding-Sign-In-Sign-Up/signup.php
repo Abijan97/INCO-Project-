@@ -50,7 +50,7 @@ if (isset($_POST['signup_submit'])) {
                     $hashed_password = password_hash($password, PASSWORD_DEFAULT);
                     mysqli_stmt_bind_param($stmt, "sss", $username, $email, $hashed_password);
                     mysqli_stmt_execute($stmt);
-                    header("Location: ../homepage_logged.php?signup=success");
+                    header("Location: ../homepage.php?signup=success");
                     exit();
                 }
             }

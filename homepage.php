@@ -12,18 +12,18 @@
 <body>
   <div class="wrapper">
     <div class="nav">
-      <!-- <div class="logo">
-      <div id="logo-img">
+      <div class="logo">
+        <div class="logo-img">
           <a href="./homepage.php">
             <img src="./img/logo2.png" alt="Logo">
           </a>
         </div>
-      </div> -->
+      </div>
       <div class="links">
-        <a href="./Sliding-Sign-In-Sign-Up/signin.php" class="mainlink">Learn</a>
-        <a href="./Sliding-Sign-In-Sign-Up/signin.php" class="mainlink">Mentor</a>
-        <a href="./Sliding-Sign-In-Sign-Up/signin.php">Contact us</a>
-        <a href="./Sliding-Sign-In-Sign-Up/signin.php">Sign In</a>
+        <a href="./learn.php" class="mainlink">Learn</a>
+        <a href="./content/" class="mainlink">Mentor</a>
+        <a href="./Contact Us/contact.php">Contact us</a>
+        <a href="./homepage_view.php">Log Out</a>
       </div>
     </div>
     <!--landing page-->
