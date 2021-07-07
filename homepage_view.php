@@ -33,7 +33,7 @@
           Connect with
           <span style="color: #e0501b; font-size: 4vw">DOT TECH</span>
         </h1>
-        <h3>DOTTECH is IT guide app that, <br />helps you become a PRO!</h3>
+        <h3>We believe, we guide!</h3>
         <div class="btn">
           <a href="#">Learn More</a>
         </div>
@@ -43,12 +43,11 @@
         <img src="./img/logo2.png" alt="" />
       </div>
     </div>
-
     <!-- about section -->
     <div class="about">
       <div class="aboutText" data-aos="fade-up" data-a os-duration="1000">
         <h1>
-          Why i it important that <br /><span style="color: #2f8be0; font-size: 3vw">to use DOTTECH?</span>
+          Why it is important <br /><span style="color: #2f8be0; font-size: 3vw">to use DOTTECH?</span>
         </h1>
         <img src="./img/undraw_portfolio_feedback_exfk.svg " alt="" />
       </div>
@@ -56,42 +55,34 @@
         <ol>
           <li>
             <span>01</span>
+       
+
             <p>
-              which is now a fast growing global panademic.the number of
-              confirmed cases world wide has exceeded 25000 due to rapid
-              spreading of virus.
+            Connect with experts in IT field and get Assistance.
             </p>
           </li>
           <li>
-            <span>01</span>
+            <span>02</span>
             <p>
-              which is now a fast growing global panademic.the number of
-              confirmed cases world wide has exceeded 25000 due to rapid
-              spreading of virus.
+            Live Chat Feature
             </p>
           </li>
           <li>
-            <span>01</span>
+            <span>03</span>
             <p>
-              which is now a fast growing global panademic.the number of
-              confirmed cases world wide has exceeded 25000 due to rapid
-              spreading of virus.
+            Mainly related to the Sri Lankan context
             </p>
           </li>
           <li>
-            <span>01</span>
+            <span>04</span>
             <p>
-              which is now a fast growing global panademic.the number of
-              confirmed cases world wide has exceeded 25000 due to rapid
-              spreading of virus.
+            Information about SL university IT degrees 
             </p>
           </li>
         </ol>
       </div>
     </div>
-
     <!-- info section -->
-
     <div class="infoSection">
       <div class="infoHeader" data-aos="fade-up" data-aos-duration="1000">
         <h1>
@@ -106,11 +97,7 @@
           <div class="cardContent">
             <!-- <h2>Binge Watch</h2> -->
             <p>
-              An educative panel discussion with academic and industry experts
-              of “IT & Computing”, which will give insights into the future of
-              the industry, and help students decide the most suitable IT
-              career pathway to pursue
-            </p>
+            Doing an information technology course, you won't just learn the theoretical part but also get the opportunity to make things. With that, you can change or adjust things and implement what you've learned. </p>
             <a href="#">
               <div class="cardBtn" onclick="window.location.href='https://www.youtube.com/watch?v=ApIxFFwhiR8&t=380s'">
                 <img src="" alt="" class="cardIcon" />
@@ -122,9 +109,7 @@
           <img src="./img/coding.png" class="cardoneImg" alt="" data-aos="fade-up" data-aos-duration="1200" />
           <div class="cardbgone"></div>
           <div class="cardContent">
-            <h2>Binge Watch</h2>
-            <p>Binge-watch all your favourite TV Shows or Movie</p>
-            <a href="#">
+<p> A bachelor's degree in information technology will put you in a better place than those without a degree, with a chance for better positions, better starting pay, and more career options.</p>            <a href="#">
               <div class="cardBtn">
                 <img src="" alt="" class="cardIcon" />
               </div>
@@ -135,9 +120,10 @@
           <img src="./img/coding.png" class="cardoneImg" alt="" data-aos="fade-up" data-aos-duration="1300" />
           <div class="cardbgone"></div>
           <div class="cardContent">
-            <h2>Binge Watch</h2>
-            <p>Binge-watch all your favourite TV Shows or Movie</p>
-            <a href="#">
+            <h2>Information Technology?</h2>
+            <p>Information technology (IT) is the use of any computers, storage, networking and other physical devices, infrastructure and processes to create, process, store, secure and exchange all forms of electronic data.
+            </p>
+              <a href="#">
               <div class="cardBtn">
                 <img src="" alt="" class="cardIcon" />
               </div>
@@ -146,7 +132,6 @@
         </div>
       </div>
     </div>
-
     <!-- BANNER AND FOOTER -->
     <div class="banner">
       <div class="bannerText" data-aos="fade-right" data-aos-duration="1000">
@@ -161,7 +146,6 @@
         <img id="app" src="./img/app.svg " alt="" />
       </div>
     </div>
-
     <!-- footer -->
     <div class="footer">
       <h2>IT Master</h2>
@@ -178,5 +162,4 @@
     AOS.init();
   </script>
 </body>
-
 </html>
