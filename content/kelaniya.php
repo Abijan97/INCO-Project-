@@ -72,12 +72,12 @@
      
   <button type="button" class="btn btn-secondary">Email</button>
   <button type="button" class="btn  btn-danger">Contact Number</button>
-  <button type="button" class="btn  btn-warning">Live Chat</button>
+  <a class="btn btn-warning" href="http://localhost/chatapp/users.php">Chat</a>
 
           </div>
           <div class="mentor">
 
-            <h4>Ayesh Silva</h4>
+            <h4>Ayesh Udara</h4>
             
           
             <h6><span class="badge bg-success">BSc(Hons) Management and Information Technology</span>
@@ -86,8 +86,8 @@
      
   <button type="button" class="btn btn-secondary">Email</button>
   <button type="button" class="btn  btn-danger">Contact Number</button>
-  <button type="button" class="btn  btn-warning">Live Chat</button>
 
+  <a class="btn btn-warning" href="http://localhost/chatapp/users.php">Chat</a>
           </div>
         </aside>
       </div>
